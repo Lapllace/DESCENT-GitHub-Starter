@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Design discussions
+    url: https://github.com/Lapllace/DESCENT-GitHub-Starter/discussions
+    about: Use Discussions for open questions and proposals that are not yet actionable tasks.
